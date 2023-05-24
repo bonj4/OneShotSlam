@@ -14,7 +14,7 @@ python ./app/main.py
 
 
 # Description
-In imgs file:
+In imgs folder:
 Gt3Dpoint.png is ground truth points in 3D world.
 
 ReferenceResult.png is perspective of origin to estimated points 
@@ -36,3 +36,6 @@ img2img3Extract3dPoints.png is est. 3D points that extracted by img2 and img3
 trajectory_XZ.png is est. trajectory on X and Z axis.
 
 trajectory_XYZ.png is est. trajectory that every combination for all axis.
+
+In data folder:
+EstPoint3d.npy filw is est. 3D point that saved as numpy file.
