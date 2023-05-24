@@ -10,5 +10,4 @@ Open3d for 3-D display
 Numpy  for math
 
 # Usage
-
-#python ./app/main.py
+python ./app/main.py
