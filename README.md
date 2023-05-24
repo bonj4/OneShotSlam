@@ -11,4 +11,4 @@ Numpy  for math
 
 # Usage
 
-# python ./app/main.py
+#python ./app/main.py
